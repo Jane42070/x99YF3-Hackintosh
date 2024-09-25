@@ -10,6 +10,7 @@
 - PS2键鼠插口
 ## BIOS
 - BIOS比x99D3M4做得好，可以开启休眠和关闭CSM支持
+    - 现在使用B站UP改的BIOS，添加了风扇调速，内存跑分提高，鸡血降压50mv
 - 开启来电自启
 - 开启网络启动
 - CSM 关闭
@@ -21,6 +22,8 @@
 - 所有功能正常，包括睡眠
 - CineBench跑分和Window下一样
 ![1](GeekBench.png)
+- 鸡血后
+![5](GeekBench1.png)
 ![2](USB.png)
 ![3](R23.png)
 ![4](Audio.png)
